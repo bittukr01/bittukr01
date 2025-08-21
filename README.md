@@ -1,9 +1,10 @@
-
-<p align="right"><a href="https://github.com/bittukr01"><img src="https://komarev.com/ghpvc/?username=bittukr01&label=Profile%20Impressions&color=red&style=for-the-badge" alt="" /> </a></p>
-
 <p align="left">
 Hi everyone 👋, I am Bittu Kumar, A Master of Computer Applications (MCA) student at Graphic Era Deemed to be University. Driven by a genuine curiosity for how technologies and systems operate, I enjoy exploring new ideas and quickly adapting to different challenges. My passion for frontend development has enabled me to design and build responsive, user-friendly web applications using HTML, CSS, JavaScript, and React.js. With a strong grasp of modern frameworks and clean coding practices, I strive to create scalable, high-performance solutions that deliver an engaging user experience.
 </p>
+<p align="right"><a href="https://github.com/bittukr01"><img src="https://komarev.com/ghpvc/?username=bittukr01&label=Profile%20Impressions&color=red&style=for-the-badge" alt="" /> </a></p>
+- 🌱 I’m currently learning **React.js**
+
+- 📫 How to reach me **bitturao912@gmail.com**
 
 <h2 align="left">Connect with me 📞:</h2>
 <p align="left">
