@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bittu Kumar</h1>
 <h3 align="center">A Master of Computer Applications (MCA) student at Graphic Era Deemed to be University. Driven by a genuine curiosity for how technologies and systems operate, I enjoy exploring new ideas and quickly adapting to different challenges. My passion for frontend development has enabled me to design and build responsive, user-friendly web applications using HTML, CSS, JavaScript, and React.js. With a strong grasp of modern frameworks and clean coding practices, I strive to create scalable, high-performance solutions that deliver an engaging user experience.</h3>
 
-<img align="right" alt"coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bittukr01&label=Profile%20views&color=0e75b6&style=flat" alt="bittukr01" /> </p>
 
