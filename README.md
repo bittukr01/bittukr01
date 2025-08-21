@@ -1,8 +1,4 @@
 
-<p align="left">
-  <img src="./banner.PNG" />
-</p>
-
 <p align="right"><a href="https://github.com/bittukr01"><img src="https://komarev.com/ghpvc/?username=bittukr01&label=Profile%20Impressions&color=red&style=for-the-badge" alt="" /> </a></p>
 
 <p align="left">
