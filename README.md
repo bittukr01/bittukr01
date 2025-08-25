@@ -36,5 +36,8 @@ Hi everyone 👋, I am Bittu Kumar, A Master of Computer Applications (MCA) stud
 
 </p><br/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bittukr01&theme=nightowl&date_format=j%20M%5B%20Y%5D&card_width=600)](https://github.com/bittukr01)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bittukr01&" alt="bittukr01" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bittukr01&show_icons=true&locale=en&layout=compact" alt="bittukr01" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bittukr01&show_icons=true&locale=en" alt="bittukr01" /></p>
 
