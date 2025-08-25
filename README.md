@@ -33,11 +33,7 @@ Hi everyone 👋, I am Bittu Kumar, A Master of Computer Applications (MCA) stud
 <kbd><img src="https://cdn3d.iconscout.com/3d/free/thumb/free-react-3d-icon-download-in-png-blend-fbx-gltf-file-formats--facebook-logo-native-javascript-library-user-interfaces-coding-lang-pack-logos-icons-7578010.png?f=webp" width="75" height="75" /></kbd>
 <kbd><img src="https://cdn3d.iconscout.com/3d/free/thumb/free-nodejs-3d-icon-download-in-png-blend-fbx-gltf-file-formats--javascript-runtime-backend-node-js-logo-coding-lang-pack-logos-icons-7578002.png?f=webp" width="75" height="75" /></kbd>
 <kbd><img src="https://cdn3d.iconscout.com/3d/free/thumb/free-mongo-db-3d-icon-download-in-png-blend-fbx-gltf-file-formats--mongodb-database-document-oriented-nosql-coding-lang-pack-logos-icons-7577996.png?f=webp" width="75" height="75" /></kbd>
-
 </p><br/>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bittukr01&" alt="bittukr01" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bittukr01&show_icons=true&locale=en&layout=compact" alt="bittukr01" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bittukr01&show_icons=true&locale=en" alt="bittukr01" /></p>
 
